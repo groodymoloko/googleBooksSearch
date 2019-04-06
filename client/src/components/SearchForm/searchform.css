@@ -1,0 +1,10 @@
+.card {
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 10px;
+}
+
+.search-body {
+  font-size: 18px;
+  padding: 20px;
+  text-align: center;
+}

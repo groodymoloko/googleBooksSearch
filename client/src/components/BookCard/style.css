@@ -1,0 +1,20 @@
+.card-row {
+    background-color: rgba(0,0,0,0.7);
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 10px;
+
+  }
+
+  .image-col {
+    text-align: center;
+  }
+
+  .card-title {
+    font-size: 24px;
+  }
+
+  .author-line {
+    color: lightcoral;
+  }
+  

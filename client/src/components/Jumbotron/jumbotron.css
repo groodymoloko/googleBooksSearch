@@ -1,0 +1,8 @@
+.jumbotron {
+  background-color: rgba(0,0,0,0.5);
+}
+
+.title {
+  color: #007bff;
+  text-shadow: 2px 2px black;
+}

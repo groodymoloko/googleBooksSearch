@@ -1,0 +1,10 @@
+body {
+  font-family: 'Righteous', cursive;
+  background-image: url(library.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  font-size: 24px;
+}
