@@ -1,6 +1,6 @@
 const router = require('express').Router();
-const bookshelfRoutes = require('./bookshelf');
+const bookshelfRoutes = require('./saved');
 
-router.use('/bookshelf', bookshelfRoutes);
+router.use('/saved', bookshelfRoutes);
 
 module.exports = router;

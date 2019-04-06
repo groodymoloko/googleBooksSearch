@@ -13,14 +13,14 @@ export default {
   },
 
   saveBook: function (bookData) {
-    return axios.post('/api/bookshelf', bookData);
+    return axios.post('/api/saved', bookData);
   },
 
   getBookshelf: function () {
-    return axios.get('/api/bookshelf')
+    return axios.get('/api/saved')
   },
 
   deleteBook: function (id) {
-    return axios.delete(`/api/bookshelf/${id}`)
+    return axios.delete(`/api/saved/${id}`)
   }
 };

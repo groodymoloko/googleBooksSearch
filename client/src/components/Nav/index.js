@@ -21,8 +21,8 @@ function Index() {
                   : "nav-link"}>Search</Link>
             </li>
             <li className="nav-item">
-              <Link to="/bookshelf"
-                className={window.location.pathname === "/bookshelf"
+              <Link to="/saved"
+                className={window.location.pathname === "/saved"
                   ? "nav-link active"
                   : "nav-link"}>Saved</Link>
             </li>

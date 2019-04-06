@@ -3,7 +3,7 @@ import API from '../utils/API';
 import Jumbotron from '../components/Jumbotron';
 import BookCard from '../components/BookCard';
 
-class Bookshelf extends Component {
+class Saved extends Component {
   state = {books: []};
 
   // GET all the books in the Mongo database.
@@ -43,4 +43,4 @@ class Bookshelf extends Component {
   }
 }
 
-export default Bookshelf;
+export default Saved;
