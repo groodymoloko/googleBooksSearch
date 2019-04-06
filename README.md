@@ -34,4 +34,9 @@ A React-based Google Books Search app that uses React components, helper/util fu
 
 ### Deployment
 
-1. This app is deployed to Heroku at: 
+1. This app is deployed to Heroku at: https://young-plateau-49636.herokuapp.com/
+
+2. To run locally, run Git Bash or other terminal:
+  * git clone this repo to your local folder
+  * npm install 
+  * npm start
